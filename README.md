@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm sherif saad</h1>
 <h3 align="center">CyberScurity</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4CDCF7&background=4856FF00&width=435&lines=Hi+I'm+%3A+sherif+saad)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4CDCF7&background=4856FF00&width=435&lines=Hi+I'm+%3A+sherif+saad" alt="Typing SVG" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sher2132&label=Profile%20views&color=0e75b6&style=flat" alt="sher2132" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@saadelhafe91162" target="blank"><img src="https://img.shields.io/twitter/follow/@saadelhafe91162?logo=twitter&style=for-the-badge" alt="@saadelhafe91162" /></a> </p>
