@@ -9,6 +9,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sher2132&theme=blue_green)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
